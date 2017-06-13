@@ -12,14 +12,20 @@ In this project utilize a kalman filter to estimate the state of a moving object
 6. Run the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases)
 
 # Result
-Here is the RMSE result for dataset 1
+1. Here is the RMSE result for dataset 1
+
 ![Simulator output](/output_images/sim_dataset1.png)
-I also graph the datatset 1 using python:
+
+I also graphed the datatset 1 using python:
+
 ![Dataset1 with update](/output_images/dataset_1.png)
 
-Here is the RMSE result for dataset 2
+2. Here is the RMSE result for dataset 2
+
 ![Simulator output](/output_images/sim_dataset2.png)
-I also graph the datatset 2 using python:
+
+I also graphd the datatset 2 using python:
+
 ![Dataset2 with update](/output_images/dataset_2.png)
 
 
